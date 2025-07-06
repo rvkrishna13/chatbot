@@ -1,0 +1,4 @@
+openai:
+   api_key: 'openapi-key'
+gemini:
+   api_key: 'AIzaSyAF3jijKp3OHVgr1Tu1HDF6vTChsdx9IJs'
